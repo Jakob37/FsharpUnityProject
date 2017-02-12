@@ -1,0 +1,15 @@
+# Files
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+
+# File endings
+*.meta
+*.sln
+
+# Folders
+.vs/
+F#kit
+Temp/
+obj/
+Library/
+ProjectSettings/
